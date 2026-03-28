@@ -1,0 +1,3 @@
+
+BAIDU_API_KEY = "4ezdmWjOJOmDGI5DmOA3Wczn"
+BAIDU_SECRET_KEY = "tQ50ogdwEOJ5x60DkgzPYucbDi8yyd5v"
